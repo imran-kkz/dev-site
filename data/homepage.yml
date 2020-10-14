@@ -84,13 +84,13 @@ experience:
       company: "CIBC"
       duration: "Jun 2018 - Jun 2019"
 
-    - title: "IT Analyst"
-      company: "CST Consultants Inc."
-      duration: "May 2017 - Sep 2017"
+    # - title: "IT Analyst"
+    #   company: "CST Consultants Inc."
+    #   duration: "May 2017 - Sep 2017"
 
-    - title: "Junior IT Analyst"
-      company: "CST Consultants Inc."
-      duration: "Sep 2016 - Dec 2016"
+    # - title: "Junior IT Analyst"
+    #   company: "CST Consultants Inc."
+    #   duration: "Sep 2016 - Dec 2016"
 
 # Client & Work
 # client_and_work:
@@ -171,23 +171,23 @@ contact:
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+  # phone:
+  #   title: "Phone Number"
+  #   number: "+41 (44) 505 10 99"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
-  address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    email: '<a href="mailto:imranrali1@gmail.com">imranrali1@gmail.com</a>'
+  # address:
+  #   title: "Address"
+  #   address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
 # newsletter
-newsletter:
-  enable: true
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+# newsletter:
+#   enable: true
+#   title: "Newsletter subscription"
+#   success_message: "Successfully subscribed"
+#   error_message: "Error while subscribing."
+#   note: "We'll never share your email with anyone else."
